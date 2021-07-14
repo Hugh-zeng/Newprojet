@@ -1,0 +1,10 @@
+D:\learn\NowProject\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\learn\NowProject\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\learn\NowProject\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\learn\NowProject\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+D:\learn\NowProject\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\learn\NowProject\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\learn\NowProject\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+D:\learn\NowProject\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\learn\NowProject\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+D:\learn\NowProject\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
